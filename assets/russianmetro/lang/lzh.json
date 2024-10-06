@@ -1,0 +1,14 @@
+{
+  "itemGroup.russianmetro.russianmetro_stuff": "俄罗斯地铁扩展",
+  "block.russianmetro.moscow_old_ticket_barrier_entrance": "莫斯科旧检票口（入口）",
+  "block.russianmetro.moscow_old_ticket_barrier_exit": "莫斯科旧检票口（出口）",
+  "block.russianmetro.moscow_old_ticket_barrier_side_cover": "莫斯科旧检票口（侧壳）",
+  "block.russianmetro.moscow_new_ticket_barrier_entrance": "莫斯科新检票口（入口）",
+  "block.russianmetro.moscow_new_ticket_barrier_exit": "莫斯科新检票口（出口）",
+  "block.russianmetro.moscow_new_ticket_barrier_side_cover": "莫斯科新检票口（侧壳）",
+  "block.russianmetro.moscow_new_ticket_machine": "莫斯科售票机",
+  "item.russianmetro.spb_horizontal_elevator_door": "圣彼得堡硬核站门",
+  "item.russianmetro.spb_horizontal_elevator_door_odd": "圣彼得堡硬核站门 (中间)",
+  "block.russianmetro.moscow_old_infosos_stand": "莫斯科信息与SOS柱",
+  "block.russianmetro.moscow_metro_logo": "莫斯科地铁标志"
+}

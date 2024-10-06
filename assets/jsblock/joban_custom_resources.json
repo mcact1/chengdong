@@ -1,0 +1,154 @@
+{
+	"pids_images": [
+		{
+			"id": "pids_mtr_ad_none",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_none.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_crowded_tml",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_crowded_tml.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_train_delay",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, true],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_train_delay.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_train_delay_1",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_train_delay_1.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_1",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_ad_none.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_2",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_crowded_tml.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_3a",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, true],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_train_delay.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_3b",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_train_delay_1.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_4n",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_crowded_eal_n.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_4s",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_crowded_eal_s.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id": "pids_mtr_5",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"customTextPushArrival": false,
+			"background": "jsblock:joban_custom_directory/pids_mtr_crowded_ael.png",
+			"fonts": "mtr:mtr",
+			"color": "000000"
+		},
+		{
+			"id":"pids_new_ad_huoguo",
+			"showWeather":false,
+			"showClock":false,
+			"hideRow":[true,true,true,true],
+			"customTextPushArrival":false,
+			"background":"jsblock:joban_custom_directory/pids_mtr_ad_huoguo.png",
+			"fonts":"mtr:mtr",
+			"color":"000000"
+		},
+		{
+			"id":"pids_new_ad_none",
+			"showWeather":false,
+			"showClock":false,
+			"hideRow":[true,true,true,true],
+			"customTextPushArrival":false,
+			"background":"jsblock:joban_custom_directory/pids_mtr_ad_none.png",
+			"fonts":"mtr:mtr",
+			"color":"ffffff"
+		},
+		{
+			"id":"pids_new_1",
+			"showWeather":false,
+			"showClock":true,
+			"hideRow":[true,true,false,true],
+			"customTextPushArrival":false,
+			"background":"jsblock:joban_custom_directory/pids_mtr_new_1.png",
+			"fonts":"mtr:mtr",
+			"color":"ffffff"
+		},
+		{
+			"id":"pids_new_2",
+			"showWeather":true,
+			"showClock":true,
+			"hideRow":[true,true,true,true],
+			"customTextPushArrival":false,
+			"background":"jsblock:joban_custom_directory/pids_mtr_new_2.png",
+			"fonts":"mtr:mtr",
+			"color":"000000"
+		}
+	]
+}

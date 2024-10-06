@@ -1,0 +1,344 @@
+{
+    "custom_signs": {
+        "s_act": {
+            "texture_id": "mtr:mtr_custom_directory/act.png",
+            "flip_texture": false, 
+            "small": false
+        },
+        "s_black_act": {
+            "texture_id": "mtr:mtr_custom_directory/bact.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_pingjun": {
+            "texture_id": "mtr:mtr_custom_directory/pingjun.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_guangy": {
+            "texture_id": "mtr:mtr_custom_directory/guangy.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_beihai": {
+            "texture_id": "mtr:mtr_custom_directory/beihai.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_lietu": {
+            "texture_id": "mtr:mtr_custom_directory/lietu.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_a_kou": {
+            "texture_id": "mtr:mtr_custom_directory/akou.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_b_kou": {
+            "texture_id": "mtr:mtr_custom_directory/bkou.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_c_kou": {
+            "texture_id": "mtr:mtr_custom_directory/ckou.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_d_kou": {
+            "texture_id": "mtr:mtr_custom_directory/dkou.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_e_kou": {
+            "texture_id": "mtr:mtr_custom_directory/ekou.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_f_kou": {
+            "texture_id": "mtr:mtr_custom_directory/fkou.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_fenge": {
+            "texture_id": "mtr:mtr_custom_directory/fenge.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_white_board": {
+            "texture_id": "mtr:mtr_custom_directory/wboard.png",
+            "flip_texture": false,
+            "small": false,
+            "background_color":"FFFFFF" 
+        },
+        "s_blue_board": {
+            "texture_id": "mtr:mtr_custom_directory/bboard.png",
+            "flip_texture": false,
+            "small": false,
+            "background_color":"194373" 
+        //8.0更新
+        },
+        "s_peno": {
+            "texture_id": "mtr:mtr_custom_directory/pest.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_jingw": {
+            "texture_id": "mtr:mtr_custom_directory/jingw.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_aed": {
+            "texture_id": "mtr:mtr_custom_directory/AED.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_greenjt": {
+            "texture_id": "mtr:mtr_custom_directory/greenjiant.png",
+            "flip_texture": false,
+            "small": true
+        },
+        "s_busstop": {
+            "texture_id": "mtr:mtr_custom_directory/buss.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_podao": {
+            "texture_id": "mtr:mtr_custom_directory/podao.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_renjc": {
+            "texture_id": "mtr:mtr_custom_directory/renjc.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_wujc": {
+            "texture_id": "mtr:mtr_custom_directory/wujc.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_zhaoyuan": {
+            "texture_id": "mtr:mtr_custom_directory/zhaoyuan.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_one": {
+            "texture_id": "mtr:mtr_custom_directory/one.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_two": {
+            "texture_id": "mtr:mtr_custom_directory/two.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_three": {
+            "texture_id": "mtr:mtr_custom_directory/three.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_four": {
+            "texture_id": "mtr:mtr_custom_directory/four.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_five": {
+            "texture_id": "mtr:mtr_custom_directory/five.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_six": {
+            "texture_id": "mtr:mtr_custom_directory/six.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_seven": {
+            "texture_id": "mtr:mtr_custom_directory/seven.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_eight": {
+            "texture_id": "mtr:mtr_custom_directory/eight.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_nine": {
+            "texture_id": "mtr:mtr_custom_directory/nine.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_zero": {
+            "texture_id": "mtr:mtr_custom_directory/zero.png",
+            "flip_texture": false,
+            "small": false
+        },
+        "s_mi": {
+            "texture_id": "mtr:mtr_custom_directory/mi.png",
+            "flip_texture": false,
+            "small": false
+        },
+        //
+        "act": {
+            "texture_id": "mtr:mtr_custom_directory/act.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"城东铁道|ACT Railway",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "act_f": {
+            "texture_id": "mtr:mtr_custom_directory/act.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"城东铁道|ACT Railway",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        "pingjun": {
+            "texture_id": "mtr:mtr_custom_directory/pingjun.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"苹骏轨道交通|Apple Jun Rail Transit",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "pingjun_f": {
+            "texture_id": "mtr:mtr_custom_directory/pingjun.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"苹骏轨道交通|Apple Jun Rail Transit",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        "guangyang": {
+            "texture_id": "mtr:mtr_custom_directory/guangy.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"广阳轨道交通|Guangyang Railway",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "guangyang_f": {
+            "texture_id": "mtr:mtr_custom_directory/guangy.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"广阳轨道交通|Guangyang Railway",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        "beihai": {
+            "texture_id": "mtr:mtr_custom_directory/beihai.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"北海铁道运营有限公司|Beihai Railway Co,.Ltd",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "beihai_f": {
+            "texture_id": "mtr:mtr_custom_directory/beihai.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"北海铁道运营有限公司|Beihai Railway Co,.Ltd",
+            "flip_custom_text":true,
+            "background_color":"000000"
+         },
+		"lietu": {
+            "texture_id": "mtr:mtr_custom_directory/lietu.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"列途™客运|ReTong™ passenger transport",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "lietu_f": {
+            "texture_id": "mtr:mtr_custom_directory/lietu.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"列途™客运|ReTong™ passenger transport",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        //8.0
+        "newcross": {
+            "texture_id": "mtr:mtr_custom_directory/pest.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"乘客止步|Passengers stop",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "newcross_f": {
+            "texture_id": "mtr:mtr_custom_directory/pest.png",
+            "flip_texture": false,
+            "small": true,
+            "custom_text":"乘客止步|Passengers stop",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        "jiancha": {
+            "texture_id": "mtr:mtr_custom_directory/wujc.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"安全检查|Security scanning",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "jiancha_f": {
+            "texture_id": "mtr:mtr_custom_directory/wujc.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"安全检查|Security scanning",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        "jingwei": {
+            "texture_id": "mtr:mtr_custom_directory/jingw.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"警务室|Police office",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "jingwei_f": {
+            "texture_id": "mtr:mtr_custom_directory/jingw.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"警务室|Police office",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        "podao": {
+            "texture_id": "mtr:mtr_custom_directory/podao.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"无障碍坡道|Wheelchair accessible",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "podao_f": {
+            "texture_id": "mtr:mtr_custom_directory/podao.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"无障碍坡道|Wheelchair accessible",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        },
+        "zhaoyuan": {
+            "texture_id": "mtr:mtr_custom_directory/zhaoyuan.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"招援按钮|Emergency button",
+            "flip_custom_text":false,
+            "background_color":"000000"
+        },
+        "zhaoyuan_f": {
+            "texture_id": "mtr:mtr_custom_directory/zhaoyuan.png",
+            "flip_texture": false,
+            "small": false,
+            "custom_text":"招援按钮|Emergency button",
+            "flip_custom_text":true,
+            "background_color":"000000"
+        }
+	}
+}
